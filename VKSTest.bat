@@ -80,5 +80,5 @@ if %num2% equ 6 pause & goto testing
 if %num2% equ 7 goto start
 
 cls 
-echo Пунк меню отсутствует в списке 
+echo Пункт меню отсутствует в списке 
 pause & goto testing
